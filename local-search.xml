@@ -4,23 +4,23 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2024/05/06/hello-world/"/>
-    <url>/2024/05/06/hello-world/</url>
+    <title>仲宣楼</title>
+    <link href="/2024/05/05/%E4%BB%B2%E5%AE%A3%E6%A5%BC/"/>
+    <url>/2024/05/05/%E4%BB%B2%E5%AE%A3%E6%A5%BC/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><h2 id="雨声"><a href="#雨声" class="headerlink" title="雨声"></a>雨声</h2><video controls style="width: 90%;" loop>  <source src="https://cdn.jsdelivr.net/gh/xhplj/git-img/5c5fbfa610ebab5a9daa7e90c00699f6.mp4" type="video/mp4"></video>]]></content>
+    <content type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;仲宣楼位于襄阳城东南角城墙之上，为纪念东汉末年诗人王粲（建安七子）在襄阳作《登楼赋》而建，因王粲字仲宣故名，又名王粲楼。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;史料记载：仲宣楼始建于东汉，明末万历年间，襄阳知府周绍稷修楼成。清.雍正间副史赵宏恩重建。乾隆二十五年署知府胡翼重修。后毁于战火（民国初年），1993年，襄阳市政府在原址上恢复仲宣楼，双层重檐歇山顶，雄伟壮丽。整个仲宣楼高17米，总面积650平方米，可分为城墙、城台和主体楼三大部分。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;仲宣楼、黄鹤楼、晴川阁和岳阳楼一起并称“楚天四大名楼”。</p><style>/* 在这里放置您原有的CSS样式 */.image-item {  margin-bottom: 15px;}/* 添加外边距确保照片之间有分割 */.waterfall-container {  column-count: 3; /* 您可以根据布局需要调整列数 */  column-gap: 15px;  width: 100%;}.waterfall-item {  break-inside: avoid-column;  margin: 15px;  border: 1px solid #ddd; /* 如果需要边框，可以设置这个属性 */  padding: 5px; /* 如果需要内间距，可以设置这个属性 */}@media (max-width: 800px) {  .waterfall-container {    column-count: 2;  }  .waterfall-item {    margin: 15px;  }}@media (max-width: 400px) {  .waterfall-container {    column-count: 1;  }  .waterfall-item {    margin: 15px;  }}/* 新增加的样式用来增加特定页面的间距 */.waterfall-item {  margin-bottom: 20px; /* 适当增加间距 */  padding: 5px; /* 如果需要内间距，可以设置这个属性 */  border: 1px solid #ddd; /* 如果需要边框，可以设置这个属性 */  background: white; /* 为了更好地分辨照片之间的间隔，暂时添加一个背景颜色 */}.categories-摄影 .waterfall-item,.categories-photography .waterfall-item,.tags-gallery .waterfall-item { /* 假设'gallery'标签的类名为 'tags-gallery' */  margin-bottom: 20px; /* 确保对所有这些分类应用相同的底部外边距 */}  </style><div id="imageTab"></div><div class="ImageGrid"></div><div class="waterfall-container">  <!-- 在这里放置您的图片项目 -->  <div class="waterfall-item">    <img class="image-item" src="https://cdn.jsdelivr.net/gh/xhplj/git-img/IMG_20240505_163844.jpg" alt="描述1">  </div>  <div class="waterfall-item">    <img class="image-item" src="https://cdn.jsdelivr.net/gh/xhplj/git-img/IMG_20240505_163743.jpg" alt="描述2">  </div>  <div class="waterfall-item">    <img class="image-item" src="https://cdn.jsdelivr.net/gh/xhplj/git-img/IMG_20240505_163725.jpg" alt="描述3">  </div>  <div class="waterfall-item">    <img class="image-item" src="https://cdn.jsdelivr.net/gh/xhplj/git-img/IMG_20240505_163618.jpg" alt="描述4">  </div>  <div class="waterfall-item">    <img class="image-item" src="https://cdn.jsdelivr.net/gh/xhplj/git-img/IMG_20240505_163504.jpg" alt="描述5">  </div>  <div class="waterfall-item">    <img class="image-item" src="https://cdn.jsdelivr.net/gh/xhplj/git-img/IMG_20240505_163455.jpg" alt="描述6">  </div>  <div class="waterfall-item">    <img class="image-item" src="https://cdn.jsdelivr.net/gh/xhplj/git-img/IMG_20240505_163423.jpg" alt="描述7">  </div>  <div class="waterfall-item">    <img class="image-item" src="https://cdn.jsdelivr.net/gh/xhplj/git-img/IMG_20240505_163309.jpg" alt="描述8">  </div>  <div class="waterfall-item">    <img class="image-item" src="https://cdn.jsdelivr.net/gh/xhplj/git-img/IMG_20240505_163249.jpg" alt="描述9">  </div>  <div class="waterfall-item">    <img class="image-item" src="https://cdn.jsdelivr.net/gh/xhplj/git-img/IMG_20240505_163213.jpg" alt="描述10">  </div>  <div class="waterfall-item">    <img class="image-item" src="https://cdn.jsdelivr.net/gh/xhplj/git-img/IMG_20240505_163109.jpg" alt="描述11">  </div>  <div class="waterfall-item">    <img class="image-item" src="https://cdn.jsdelivr.net/gh/xhplj/git-img/IMG_20240505_163051.jpg" alt="描述12">  </div>  <div class="waterfall-item">    <img class="image-item" src="https://cdn.jsdelivr.net/gh/xhplj/git-img/IMG_20240505_163040.jpg" alt="描述13">  </div>  <div class="waterfall-item">    <img class="image-item" src="https://cdn.jsdelivr.net/gh/xhplj/git-img/IMG_20240505_163018.jpg" alt="描述14">  </div>  <div class="waterfall-item">    <img class="image-item" src="https://cdn.jsdelivr.net/gh/xhplj/git-img/IMG_20240505_162625.jpg" alt="描述15">  </div>    <!-- 依此类推，添加更多图片项目 -->  <!-- ...其他的 .waterfall-item 和图片项目... --></div><script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js"></script><script>  var grid = document.querySelector('.waterfall-container');  var msnry;    imagesLoaded( grid, function() {    msnry = new Masonry( grid, {      itemSelector: '.waterfall-item',      columnWidth: '.waterfall-item',      percentPosition: true    });  });</script><script>  // document.addEventListener("DOMContentLoaded", function() {  //   var password = prompt("请输入密码：");  //   if (password !== "123321") {  //     alert("密码错误！");  //     window.location.href = '/'; // or some other URL you want to redirect to  //   } else {  //     var waterfallContainer = document.querySelector(".waterfall-container");  //     waterfallContainer.style.display = "block";  //   }  // });</script>]]></content>
     
     
     <categories>
       
-      <category>技术</category>
+      <category>摄影</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>blog</tag>
+      <tag>gallery</tag>
       
     </tags>
     
@@ -53,6 +53,31 @@
     <tags>
       
       <tag>travel</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2024/04/26/hello-world/"/>
+    <url>/2024/04/26/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><h2 id="雨声"><a href="#雨声" class="headerlink" title="雨声"></a>雨声</h2><video controls style="width: 90%;" loop>  <source src="https://cdn.jsdelivr.net/gh/xhplj/git-img/5c5fbfa610ebab5a9daa7e90c00699f6.mp4" type="video/mp4"></video>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>blog</tag>
       
     </tags>
     
