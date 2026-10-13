@@ -1,0 +1,9 @@
+/* Set the actual white listing container's top inset. */
+#board > .container:has(.index-card) {
+  padding-top: 144px !important;
+}
+@media (max-width: 767px) {
+  #board > .container:has(.index-card) {
+    padding-top: 96px !important;
+  }
+}

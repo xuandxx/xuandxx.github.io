@@ -1,0 +1,9 @@
+/* Extra breathing room above the first entry on blog listing pages. */
+#board .index-card:first-child {
+  padding-top: 72px;
+}
+@media (max-width: 767px) {
+  #board .index-card:first-child {
+    padding-top: 48px;
+  }
+}
